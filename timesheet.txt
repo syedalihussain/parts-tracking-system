@@ -1,0 +1,2 @@
+1 - 1.5: Added tailwindcss/forms and created NavLinks and SideNav and Dashboard layout.tsx
+2 - 3: Creating nav-link, cards, latest-invoices, revenue-charts
