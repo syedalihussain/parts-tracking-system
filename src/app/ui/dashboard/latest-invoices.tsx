@@ -22,6 +22,7 @@ export default async function LatestInvoices() {
                   'flex flex-row items-center justify-between py-4',
                   {
                     'border-t': i !== 0,
+                    'border-gray-200': i !== 0,
                   }
                 )}
               >
